@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Niranjanv2004/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3639-zero-array-transformation-i) |
