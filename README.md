@@ -123,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Niranjanv2004/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
