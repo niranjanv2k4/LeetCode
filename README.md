@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1656-count-good-triplets](https://github.com/Niranjanv2004/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Niranjanv2004/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2249-count-the-hidden-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3639-zero-array-transformation-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## String
