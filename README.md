@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/Niranjanv2004/LeetCode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Niranjanv2004/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2050-count-good-numbers) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0001-two-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Niranjanv2004/LeetCode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Niranjanv2004/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
