@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Niranjanv2004/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Niranjanv2004/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Design
 |  |
 | ------- |
