@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0368-largest-divisible-subset](https://github.com/Niranjanv2004/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Niranjanv2004/LeetCode/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Niranjanv2004/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/Niranjanv2004/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Niranjanv2004/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
