@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Niranjanv2004/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Niranjanv2004/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0213-house-robber-ii) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Niranjanv2004/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Niranjanv2004/LeetCode/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Niranjanv2004/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Niranjanv2004/LeetCode/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/Niranjanv2004/LeetCode/tree/master/1894-merge-strings-alternately) |
