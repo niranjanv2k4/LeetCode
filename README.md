@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2249-count-the-hidden-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Niranjanv2004/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2591-frog-jump-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Niranjanv2004/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Niranjanv2004/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Niranjanv2004/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2591-frog-jump-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/2591-frog-jump-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Niranjanv2004/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Two Pointers
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Niranjanv2004/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2591-frog-jump-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3643-zero-array-transformation-ii) |
