@@ -4,24 +4,33 @@ public:
         if (s.size() <= 1)
             return s;
 
-        string max_str = s.substr(0, 1);
-        auto expand = [&s](int left, int right) {
-            while (left >= 0 && right < s.size() && s[left] == s[right]) {
-                left--;
-                right++;
+        string maxStr = s.substr(0, 1);
+        int maxLen = 1;
+        s = "#" + regex_replace(s, regex(""), "#") + "#";
+        const int n = s.size();
+
+        vector<int> dp(s.size(), 0);
+        int center = 0, right = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (i < right)
+                dp[i] = min(right - i, dp[2 * center - i]);
+            while (i - dp[i] - 1 >= 0 && i + dp[i] + 1 < n &&
+                   s[i - dp[i] - 1] == s[i + dp[i] + 1])
+                dp[i]++;
+
+            if (i + dp[i] > right) {
+                center = i;
+                right = i + dp[i];
             }
-            return s.substr(left + 1, right - left - 1);
-        };
 
-        for (int i = 0; i < s.size(); i++) {
-            string odd = expand(i, i);
-            string even = expand(i, i + 1);
-
-            if (odd.size() > max_str.size())
-                max_str = odd;
-            if (even.size() > max_str.size())
-                max_str = even;
+            if (dp[i] > maxLen) {
+                maxLen = dp[i];
+                maxStr = s.substr(i - dp[i], 2 * dp[i] + 1);
+                maxStr.erase(remove(maxStr.begin(), maxStr.end(), '#'),
+                             maxStr.end());
+            }
         }
-        return max_str;
+        return maxStr;
     }
 };
