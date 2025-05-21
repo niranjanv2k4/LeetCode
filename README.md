@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0045-jump-game-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Niranjanv2004/LeetCode/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Niranjanv2004/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0213-house-robber-ii) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
