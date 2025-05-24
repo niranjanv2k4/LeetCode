@@ -1,39 +1,40 @@
 class Solution {
 public:
     vector<vector<int>> pre;
-    int dp[1 << 8];
+    vector<int> dp;
     int m, n;
     int maxCompatibilitySum(vector<vector<int>>& students,
                             vector<vector<int>>& mentors) {
         n = students.size();
         m = students[0].size();
-        vector<bool> selected(n, false);
+        int mask = 0;
         pre = vector<vector<int>>(n, vector<int>(n));
-
-        for (int i = 0; i < n; i++) 
-            for (int j = 0; j < n; j++) 
-                for (int k = 0; k < m; k++) 
+        dp = vector<int>(1 << n, -1);
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < n; j++)
+                for (int k = 0; k < m; k++)
                     if (students[i][k] == mentors[j][k])
                         pre[i][j]++;
-                
 
-        return recurse(0, selected);
+        return recurse(0, mask);
     }
 
-    int recurse(int idx, vector<bool>& selected) {
+    int recurse(int idx, int mask) {
         if (idx == n)
             return 0;
 
+        if (dp[mask] != -1)
+            return dp[mask];
+
         int maxVal = 0;
-        for (int i = idx; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (selected[j])
-                    continue;
-                selected[j] = true;
-                maxVal = max(maxVal, recurse(i+1, selected) + pre[i][j]);
-                selected[j] = false;
-            }
+        int student = __builtin_popcount(mask);
+
+        for (int j = 0; j < n; j++) {
+            if (!(mask & (1 << j)))
+                maxVal = max(maxVal, recurse(idx + 1, mask | (1 << j)) +
+                                         pre[student][j]);
         }
-        return maxVal;
+
+        return dp[mask] = maxVal;
     }
 };
