@@ -1,11 +1,13 @@
 class Solution {
 public:
     int closestMeetingNode(vector<int>& edges, int node1, int node2) {
+
         const int n = edges.size();
-        vector<int> dist1(n, -1), dist2(n, -1);
-        dfs(dist1, 0, node1, edges);
-        dfs(dist2, 0, node2, edges);
         int res = -1, minVal = INT_MAX;
+
+        auto dist1 = dfs(node1, edges);
+        auto dist2 = dfs(node2, edges);
+        
         for (int i = n - 1; i >= 0; i--) {
             if (dist1[i] != -1 && dist2[i] != -1) {
                 if (minVal >= max(dist1[i], dist2[i])) {
@@ -14,12 +16,19 @@ public:
                 }
             }
         }
+
         return res;
     }
 
-    void dfs(vector<int>& dist, int k, int vertex, vector<int>& edges) {
-        dist[vertex] = k;
-        if (edges[vertex] != -1 && dist[edges[vertex]] == -1)
-            dfs(dist, k + 1, edges[vertex], edges);
+    vector<int> dfs(int vertex, vector<int>& edges) {
+        vector<int> dist(edges.size(), -1);
+        int len = 0;
+
+        while (vertex != -1 && dist[vertex] == -1) {
+            dist[vertex] = len++;
+            vertex = edges[vertex];
+        }
+        
+        return dist;
     }
 };
