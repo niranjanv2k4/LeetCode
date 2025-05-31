@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0945-snakes-and-ladders](https://github.com/Niranjanv2004/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Niranjanv2004/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Niranjanv2004/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/Niranjanv2004/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Niranjanv2004/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Niranjanv2004/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/Niranjanv2004/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
