@@ -10,10 +10,6 @@ public:
         if (n <= limit)
             return (long long)(n+2)*(n+1)/2;
 
-        vector<long long> fac(4, 1);
-        fac[0]=fac[3]=1;
-        fac[1]=fac[2]=3;
-
         bool flag = false;
         long long res = 0, val, temp;
 
@@ -26,7 +22,7 @@ public:
             if (flag)
                 temp = -temp;
             flag = !flag;
-            res += temp * fac[i];
+            res += temp * ((i==0 || i==3)?1:3);
         }
         
         return res;
