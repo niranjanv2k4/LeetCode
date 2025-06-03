@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Niranjanv2004/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Niranjanv2004/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1656-count-good-triplets](https://github.com/Niranjanv2004/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Niranjanv2004/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/Niranjanv2004/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Niranjanv2004/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Niranjanv2004/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Niranjanv2004/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
