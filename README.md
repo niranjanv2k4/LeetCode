@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Niranjanv2004/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Niranjanv2004/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Niranjanv2004/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Niranjanv2004/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Niranjanv2004/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Niranjanv2004/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Niranjanv2004/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Niranjanv2004/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Geometry
 |  |
@@ -333,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Niranjanv2004/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
