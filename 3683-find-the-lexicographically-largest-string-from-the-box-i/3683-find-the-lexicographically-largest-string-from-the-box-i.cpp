@@ -4,18 +4,16 @@ public:
         if (numFriends == 1)
             return word;
 
-        int n = word.size();
+        int n = word.size(), idx;
         int add = n - numFriends + 1;
         string curr = word.substr(0, add);
-        string temp = curr;
 
         for (int i = 1; i < n; i++) {
-            if (i + add - 1 < n)
-                temp += word[i + add - 1];
-            if (temp.substr(i, add) > curr)
-                curr = temp.substr(i, add);
+            string temp = word.substr(i, add);
+            if (temp > curr)
+                curr = temp;
         }
-        
+
         return curr;
     }
 };
