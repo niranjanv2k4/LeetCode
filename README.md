@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Niranjanv2004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Niranjanv2004/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Niranjanv2004/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -474,5 +478,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
