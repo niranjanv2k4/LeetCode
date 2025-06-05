@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Niranjanv2004/LeetCode/tree/master/0038-count-and-say) |
 | [0392-is-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Niranjanv2004/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Niranjanv2004/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Niranjanv2004/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -480,4 +481,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Niranjanv2004/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
