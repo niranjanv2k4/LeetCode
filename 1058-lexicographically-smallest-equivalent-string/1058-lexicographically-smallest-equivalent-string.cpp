@@ -2,23 +2,23 @@ class Solution {
 public:
     string smallestEquivalentString(string s1, string s2, string baseStr) {
         vector<vector<int>> adj(26);
-        unordered_map<char, char> lowest(26);
+        vector<char> lowest(26, 0);
         for (int i = 0; i < s1.size(); i++) {
             adj[s1[i] - 'a'].push_back(s2[i] - 'a');
             adj[s2[i] - 'a'].push_back(s1[i] - 'a');
         }
         string res = "";
         for (char c : baseStr) {
-            if (lowest.find(c) == lowest.end())
-                res += bfs(adj, c - 'a', lowest);
+            int curr = c - 'a';
+            if (lowest[curr] == 0)
+                res += bfs(adj, curr, lowest);
             else
-                res += lowest[c];
+                res += lowest[curr];
         }
         return res;
     }
 
-    char bfs(vector<vector<int>>& adj, int start,
-             unordered_map<char, char>& lowest) {
+    char bfs(vector<vector<int>> &adj, int start, vector<char> &lowest) {
         vector<bool> visited(adj.size(), false);
         visited[start] = true;
         queue<int> q;
