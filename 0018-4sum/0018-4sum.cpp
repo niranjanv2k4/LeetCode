@@ -8,19 +8,19 @@ public:
             return {};
 
         vector<vector<int>> res;
-        
+
         for (int a = 0; a < n - 3; a++) {
 
             if (a != 0 && nums[a] == nums[a - 1])
                 continue;
 
-            int i = a + 1;
-
-            while (i < n) {
+            for (int i = a + 1; i < n - 2; i++) {
+                if (i != a + 1 && nums[i] == nums[i - 1])
+                    continue;
 
                 int j = i + 1;
                 int k = n - 1;
-                
+
                 while (j < k) {
                     long long num =
                         (long long)nums[a] + nums[i] + nums[j] + nums[k];
@@ -39,10 +39,6 @@ public:
                             k--;
                     }
                 }
-
-                i++;
-                while (i < n && nums[i] == nums[i-1])
-                    i++;
             }
         }
 
