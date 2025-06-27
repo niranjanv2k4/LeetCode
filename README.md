@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Niranjanv2004/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Niranjanv2004/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Niranjanv2004/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Niranjanv2004/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Niranjanv2004/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Niranjanv2004/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niranjanv2004/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Niranjanv2004/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Niranjanv2004/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Niranjanv2004/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Niranjanv2004/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Niranjanv2004/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Niranjanv2004/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -430,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Niranjanv2004/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
