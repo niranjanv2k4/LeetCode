@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Niranjanv2004/LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Niranjanv2004/LeetCode/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Niranjanv2004/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Niranjanv2004/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Niranjanv2004/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Niranjanv2004/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/Niranjanv2004/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Niranjanv2004/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
