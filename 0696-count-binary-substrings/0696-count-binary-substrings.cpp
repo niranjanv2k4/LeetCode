@@ -1,25 +1,25 @@
 class Solution {
 public:
     int countBinarySubstrings(string s) {
-        int res = 0;
-        int i = 0;
-        int c_1 = 0, c_2 = 0;
+
+        int i = 1, res = 0;
+        int prev = 1, curr = 1;
         char first = s[i];
-        while (i < s.size() && s[i] == first) {
-            i++;
-            c_1++;
-        }
+
+        for(; i<s.size() && s[i]==s[i-1]; i++)
+            prev++;
+        
 
         while (i < s.size()) {
-            while (i < s.size() && s[i] != first) {
-                c_2++;
-                i++;
+            i++;
+            for(; i<s.size() && s[i]==s[i-1]; i++) {
+                curr++;
             }
-            res += min(c_1, c_2);
-            c_1 = c_2;
-            c_2=0;
-            first = s[i-1];
+            res += min(prev, curr);
+            prev = curr;
+            curr = 1;
         }
+
         return res;
     }
 };
