@@ -533,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Niranjanv2004/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Niranjanv2004/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/Niranjanv2004/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Niranjanv2004/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Niranjanv2004/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/Niranjanv2004/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Niranjanv2004/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/Niranjanv2004/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Niranjanv2004/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Niranjanv2004/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/Niranjanv2004/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Niranjanv2004/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -643,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Niranjanv2004/LeetCode/tree/master/0684-redundant-connection) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Niranjanv2004/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Trie
 |  |
