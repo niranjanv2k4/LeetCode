@@ -434,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Niranjanv2004/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Counting
 |  |
 | ------- |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Niranjanv2004/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Niranjanv2004/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Niranjanv2004/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Tree
 |  |
 | ------- |
@@ -611,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Niranjanv2004/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -667,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Niranjanv2004/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Niranjanv2004/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Niranjanv2004/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Trie
 |  |
 | ------- |
