@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Niranjanv2004/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Niranjanv2004/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Niranjanv2004/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Niranjanv2004/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Niranjanv2004/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Niranjanv2004/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Niranjanv2004/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Niranjanv2004/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Niranjanv2004/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -668,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Indexed Tree
 |  |
 | ------- |
