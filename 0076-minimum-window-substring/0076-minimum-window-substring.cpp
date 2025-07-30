@@ -1,42 +1,36 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
+        int n = s.size(), m = t.size();
+        vector<int> hash(256, 0);
 
-        if (s.size() < t.size())
-            return "";
+        for (const char& ch : t) {
+            hash[ch]++;
+        }
 
-        vector<int> fre1(128, 0), fre2(128, 0);
+        int l = 0, r = 0, count = 0, minLen = 1e6, startIndex = -1;
 
-        for (char& ch : t) 
-            fre1[ch]++;
-        
-
-        int j = 0;
-        string res;
-        for (int i = 0; i < s.size(); i++) {
-            fre2[s[i]]++;
-            if (isValid(fre1, fre2)) {
-                while (j <= i) {
-                    if (fre1[s[j]] > 0 && fre2[s[j]] - 1 < fre1[s[j]])
-                        break;
-                    fre2[s[j]]--;
-                    j++;
-                }
-                if (res.size() == 0)
-                    res = s.substr(j, i - j + 1);
-                else if (i - j + 1 < res.size())
-                    res = s.substr(j, i - j + 1);
+        while (r < n) {
+            if (hash[s[r]] > 0) {
+                count++;
             }
-        }
-        
-        return res;
-    }
+            hash[s[r]]--;
 
-    bool isValid(vector<int>& fre1, vector<int>& fre2) {
-        for (int i = 0; i < 128; i++) {
-            if (fre1[i] > 0 && fre2[i] < fre1[i])
-                return false;
+            while (count == m) {
+                if (minLen > r - l + 1) {
+                    minLen = r - l + 1;
+                    startIndex = l;
+                }
+
+                hash[s[l]]++;
+
+                if (hash[s[l]] > 0) {
+                    count--;
+                }
+                l++;
+            }
+            r++;
         }
-        return true;
+        return startIndex == -1 ? "" : s.substr(startIndex, minLen);
     }
 };
