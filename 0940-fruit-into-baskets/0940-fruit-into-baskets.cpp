@@ -11,9 +11,7 @@ public:
                     map.erase(fruits[j]);
                 j++;
             }
-            if (map.size() <= 2) {
-                res = max(res, i - j + 1);
-            }
+            res = max(res, i - j + 1);
         }
         return res;
     }
