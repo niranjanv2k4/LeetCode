@@ -12,20 +12,25 @@
  */
 class BSTIterator {
 public:
-    vector<int> arr;
-    int idx = 0;
-    BSTIterator(TreeNode* root) { inorder(root); }
-    void inorder(TreeNode* root) {
-        if (!root)
-            return;
-        inorder(root->left);
-        arr.push_back(root->val);
-        inorder(root->right);
+    stack<TreeNode*> st;
+    BSTIterator(TreeNode* root) { pushLeft(root); }
+
+    void pushLeft(TreeNode* root) {
+        TreeNode* temp = root;
+        while (temp) {
+            st.push(temp);
+            temp = temp->left;
+        }
     }
 
-    int next() { return arr[idx++]; }
+    int next() {
+        TreeNode* curr = st.top();
+        st.pop();
+        pushLeft(curr->right);
+        return curr->val;
+    }
 
-    bool hasNext() { return idx < arr.size(); }
+    bool hasNext() { return !st.empty(); }
 };
 
 /**
