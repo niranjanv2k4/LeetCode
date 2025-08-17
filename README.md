@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Niranjanv2004/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Niranjanv2004/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Niranjanv2004/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0867-new-21-game](https://github.com/Niranjanv2004/LeetCode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1448-maximum-69-number) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Niranjanv2004/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/Niranjanv2004/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Niranjanv2004/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Niranjanv2004/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Niranjanv2004/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Niranjanv2004/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Niranjanv2004/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -788,4 +791,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Niranjanv2004/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Niranjanv2004/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
