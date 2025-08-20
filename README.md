@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1332-count-vowels-permutation](https://github.com/Niranjanv2004/LeetCode/tree/master/1332-count-vowels-permutation) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/Niranjanv2004/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Niranjanv2004/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Niranjanv2004/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/Niranjanv2004/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Niranjanv2004/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Niranjanv2004/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
