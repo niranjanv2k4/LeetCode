@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1332-count-vowels-permutation](https://github.com/Niranjanv2004/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/Niranjanv2004/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Niranjanv2004/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Niranjanv2004/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1511-count-number-of-teams](https://github.com/Niranjanv2004/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Niranjanv2004/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niranjanv2004/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/Niranjanv2004/LeetCode/tree/master/1656-count-good-triplets) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Niranjanv2004/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Niranjanv2004/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Niranjanv2004/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Niranjanv2004/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Niranjanv2004/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Niranjanv2004/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
