@@ -7,7 +7,6 @@ public:
         int count = 0;
         vector<vector<int>> vis(n, vector<int>(m, -1));
 
-        // 4D DP: n Ã m Ã 4 directions Ã 2 flag states
         vector<vector<vector<vector<int>>>> dp(
             n, vector<vector<vector<int>>>(m,
                 vector<vector<int>>(4, vector<int>(2, -1))));
