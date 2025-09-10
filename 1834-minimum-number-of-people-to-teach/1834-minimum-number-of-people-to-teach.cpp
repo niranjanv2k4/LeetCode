@@ -3,49 +3,43 @@ public:
     int minimumTeachings(int n, vector<vector<int>>& languages,
                          vector<vector<int>>& friendships) {
         vector<vector<int>> temp;
-        for(auto& vec:languages){
+        for (auto& vec : languages) {
             sort(vec.begin(), vec.end());
         }
+        
         for (auto vec : friendships) {
             if (!check(languages, vec[0] - 1, vec[1] - 1)) {
                 temp.push_back(vec);
             }
         }
-        int res = 0;
-        vector<int> fre(n+1, 0);
+
+        int res = 0, max_lang = 0;
+        vector<int> fre(n + 1, 0);
         set<int> vis;
-        for(auto vec:temp){
-            int u = vec[0], v = vec[1];
-            if(vis.find(u)==vis.end()){
-                for(int lang:languages[u-1]){
-                    fre[lang]++;
+
+        for (auto vec : temp) {
+            for (auto el : vec) {
+                if (vis.find(el) == vis.end()) {
+                    for (int lang : languages[el - 1]) {
+                        fre[lang]++;
+                        if (fre[max_lang] < fre[lang]) {
+                            max_lang = lang;
+                        }
+                    }
+                    vis.insert(el);
                 }
-                vis.insert(u);
-            }
-            if(vis.find(v)==vis.end()){
-                for(int lang:languages[v-1]){
-                    fre[lang]++;
-                }
-                vis.insert(v);
             }
         }
 
-        int max_lang = 0;
-        for(int i = 0; i<fre.size(); i++){
-            if(fre[max_lang]<fre[i]){
-                max_lang = i;
-            }
-        }
-
-        for(auto el:vis){
+        for (auto el : vis) {
             bool flag = false;
-            for(auto lang : languages[el - 1]){
-                if(lang==max_lang){
+            for (auto lang : languages[el - 1]) {
+                if (lang == max_lang) {
                     flag = true;
                     break;
                 }
             }
-            if(!flag)res++;
+            res += !flag;
         }
 
         return res;
