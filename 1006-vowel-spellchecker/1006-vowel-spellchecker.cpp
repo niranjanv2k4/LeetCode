@@ -3,16 +3,19 @@ using namespace std;
 
 class Solution {
 public:
-    vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
+    vector<string> spellchecker(vector<string>& wordlist,
+                                vector<string>& queries) {
         unordered_set<string> st(wordlist.begin(), wordlist.end());
         unordered_map<string, string> lower_map;
         unordered_map<string, string> vowel_map;
 
         for (string& s : wordlist) {
             string lower = toLower(s);
-            if (!lower_map.count(lower)) lower_map[lower] = s;
-            string vowel = maskVowel(lower);               
-            if (!vowel_map.count(vowel)) vowel_map[vowel] = s;
+            if (!lower_map.count(lower))
+                lower_map[lower] = s;
+            string vowel = maskVowel(lower);
+            if (!vowel_map.count(vowel))
+                vowel_map[vowel] = s;
         }
 
         vector<string> res;
@@ -45,7 +48,8 @@ private:
     static string toLower(const string& s) {
         string r;
         r.reserve(s.size());
-        for (char c : s) r.push_back(tolower(c));
+        for (char c : s)
+            r.push_back(tolower(c));
         return r;
     }
 
