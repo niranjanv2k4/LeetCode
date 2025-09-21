@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Niranjanv2004/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2023-design-movie-rental-system](https://github.com/Niranjanv2004/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Niranjanv2004/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Niranjanv2004/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Niranjanv2004/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0307-range-sum-query-mutable](https://github.com/Niranjanv2004/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2023-design-movie-rental-system](https://github.com/Niranjanv2004/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Niranjanv2004/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Niranjanv2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Niranjanv2004/LeetCode/tree/master/3827-implement-router) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/Niranjanv2004/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Niranjanv2004/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Niranjanv2004/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2023-design-movie-rental-system](https://github.com/Niranjanv2004/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Niranjanv2004/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -786,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Niranjanv2004/LeetCode/tree/master/0744-network-delay-time) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Niranjanv2004/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/Niranjanv2004/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Niranjanv2004/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Niranjanv2004/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -888,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Niranjanv2004/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Niranjanv2004/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Niranjanv2004/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
