@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Niranjanv2004/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Niranjanv2004/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Niranjanv2004/LeetCode/tree/master/0231-power-of-two) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Niranjanv2004/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Niranjanv2004/LeetCode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/Niranjanv2004/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Niranjanv2004/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/Niranjanv2004/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0696-count-binary-substrings](https://github.com/Niranjanv2004/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Niranjanv2004/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Niranjanv2004/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Niranjanv2004/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0268-missing-number) |
