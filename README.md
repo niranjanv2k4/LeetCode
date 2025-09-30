@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2457-count-special-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/2457-count-special-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Niranjanv2004/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Niranjanv2004/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Niranjanv2004/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Niranjanv2004/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Niranjanv2004/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Niranjanv2004/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Niranjanv2004/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Niranjanv2004/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Niranjanv2004/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
@@ -629,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/Niranjanv2004/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
