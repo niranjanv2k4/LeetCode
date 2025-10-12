@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Niranjanv2004/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Niranjanv2004/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Niranjanv2004/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Niranjanv2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Niranjanv2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Niranjanv2004/LeetCode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Design
 |  |
 | ------- |
@@ -649,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
 | ------- |
@@ -657,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -850,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2078-maximum-compatibility-score-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
