@@ -4,21 +4,15 @@ public:
 
         unordered_map<int, int> mp;
         int n = nums.size();
-
-        for (int i = 0; i < nums.size(); i++) {
-            nums[i] = ((nums[i] % value) + value) % value;
-            mp[nums[i]]++;
-        }
-
         vector<int> res(n);
         int idx = 0;
 
-        for (auto [key, val] : mp) {
-            while (val--) {
-                res[idx++] = key + val * value;
-            }
+        for (int i = 0; i < nums.size(); i++) {
+            int rem = ((nums[i] % value) + value) % value;
+            res[idx++] = rem + (mp[rem])*value;
+            mp[rem]++;
         }
-        
+
         sort(res.begin(), res.end());
 
         if (res[0] != 0)
