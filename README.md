@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Niranjanv2004/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Niranjanv2004/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Niranjanv2004/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Niranjanv2004/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Niranjanv2004/LeetCode/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -767,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Niranjanv2004/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -793,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Niranjanv2004/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
