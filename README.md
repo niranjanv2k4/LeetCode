@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Niranjanv2004/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Niranjanv2004/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Niranjanv2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Niranjanv2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Niranjanv2004/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Niranjanv2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -575,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Niranjanv2004/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -685,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
