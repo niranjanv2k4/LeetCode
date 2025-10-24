@@ -11,8 +11,7 @@ public:
                 freq[rem]++;
             }
             for (int j = 0; j < 10; j++) {
-                if(i==0 || freq[j] == 0)continue;
-                if (j != freq[j]) {
+                if (j != freq[j] && freq[j] != 0) {
                     flag = false;
                     break;
                 }
