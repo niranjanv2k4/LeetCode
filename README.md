@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Niranjanv2004/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/Niranjanv2004/LeetCode/tree/master/0867-new-21-game) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0407-trapping-rain-water-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Niranjanv2004/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Niranjanv2004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Niranjanv2004/LeetCode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Niranjanv2004/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Niranjanv2004/LeetCode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
