@@ -15,15 +15,12 @@ public:
 
         int res = INT_MAX;
 
-        for (int size = 1; size <= n; size++) {
-            for (int start = 0; start + size <= n; start++) {
-                int end = start + size - 1;
-                int g = 0;
-                for (int i = start; i <= end; i++) {
-                    g = gcd(g, nums[i]);
-                }
-                if (g == 1) {
-                    res = min(res, size + n - 2);
+        for(int i = 0; i<n; i++){
+            int g = nums[i];
+            for(int j = i; j<n; j++){
+                g = gcd(g, nums[j]);
+                if(g == 1){
+                    res = min(res, j - i + n - 1);
                 }
             }
         }
