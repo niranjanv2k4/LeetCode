@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Niranjanv2004/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0407-trapping-rain-water-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Niranjanv2004/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Niranjanv2004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Niranjanv2004/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Niranjanv2004/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0551-student-attendance-record-i](https://github.com/Niranjanv2004/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0696-count-binary-substrings](https://github.com/Niranjanv2004/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
