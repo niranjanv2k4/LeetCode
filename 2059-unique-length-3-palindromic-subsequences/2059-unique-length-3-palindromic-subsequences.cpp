@@ -4,19 +4,14 @@ public:
         int res = 0;
         int n = s.size();
         unordered_set<char> st(s.begin(), s.end());
+        vector<int> first(26, INT_MAX), last(26, INT_MIN);
+        for(int i = 0; i<n; i++){
+            first[s[i]-'a'] = min(first[s[i]-'a'], i);
+            last[s[i]-'a'] = max(last[s[i]-'a'], i);
+        }
         unordered_set<string> palindromes;
         for (char ch : st) {
-            int i = 0, j = n - 1;
-            for (; i < s.size(); i++) {
-                if (s[i] == ch)
-                    break;
-            }
-
-            for (; j > i; j--) {
-                if (s[j] == ch)
-                    break;
-            }
-            for (int k = i + 1; k < j; k++) {
+            for (int k = first[ch - 'a'] + 1; k < last[ch - 'a']; k++) {
                 string temp = "";
                 temp = temp + ch + s[k] + ch;
                 palindromes.insert(temp);
