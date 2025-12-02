@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Niranjanv2004/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Niranjanv2004/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Design
 |  |
 | ------- |
@@ -616,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3827-implement-router](https://github.com/Niranjanv2004/LeetCode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Niranjanv2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Matrix
 |  |
 | ------- |
@@ -662,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Niranjanv2004/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Niranjanv2004/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Sliding Window
 |  |
 | ------- |
