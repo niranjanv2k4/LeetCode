@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Niranjanv2004/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Niranjanv2004/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2037-count-square-sum-triples](https://github.com/Niranjanv2004/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Niranjanv2004/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Niranjanv2004/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -797,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/Niranjanv2004/LeetCode/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2037-count-square-sum-triples](https://github.com/Niranjanv2004/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Niranjanv2004/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
