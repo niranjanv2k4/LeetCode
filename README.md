@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Niranjanv2004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3721-count-mentions-per-user](https://github.com/Niranjanv2004/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Niranjanv2004/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Niranjanv2004/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Niranjanv2004/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Niranjanv2004/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3721-count-mentions-per-user](https://github.com/Niranjanv2004/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Niranjanv2004/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Niranjanv2004/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3721-count-mentions-per-user](https://github.com/Niranjanv2004/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Niranjanv2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
@@ -854,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Niranjanv2004/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3721-count-mentions-per-user](https://github.com/Niranjanv2004/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Niranjanv2004/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/Niranjanv2004/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
