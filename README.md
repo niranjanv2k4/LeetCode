@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Niranjanv2004/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Design
 |  |
 | ------- |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Niranjanv2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Niranjanv2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Backtracking
 |  |
 | ------- |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Niranjanv2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
@@ -862,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3819-count-covered-buildings](https://github.com/Niranjanv2004/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/Niranjanv2004/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
+| [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Tree
 |  |
 | ------- |
