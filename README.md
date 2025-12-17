@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Niranjanv2004/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Niranjanv2004/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Niranjanv2004/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Niranjanv2004/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Niranjanv2004/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Design
 |  |
