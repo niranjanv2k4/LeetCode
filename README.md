@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Niranjanv2004/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Niranjanv2004/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1332-count-vowels-permutation](https://github.com/Niranjanv2004/LeetCode/tree/master/1332-count-vowels-permutation) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/Niranjanv2004/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Niranjanv2004/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Niranjanv2004/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Niranjanv2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Niranjanv2004/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Niranjanv2004/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Niranjanv2004/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Niranjanv2004/LeetCode/tree/master/0868-push-dominoes) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Niranjanv2004/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Niranjanv2004/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Niranjanv2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Niranjanv2004/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Niranjanv2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
