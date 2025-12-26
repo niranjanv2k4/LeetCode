@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Niranjanv2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Niranjanv2004/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Niranjanv2004/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Niranjanv2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Niranjanv2004/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/Niranjanv2004/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Niranjanv2004/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Niranjanv2004/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
