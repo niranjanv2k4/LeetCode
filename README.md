@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Niranjanv2004/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Niranjanv2004/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Niranjanv2004/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Niranjanv2004/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Niranjanv2004/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Niranjanv2004/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Niranjanv2004/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Niranjanv2004/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Niranjanv2004/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -743,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Niranjanv2004/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Niranjanv2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Niranjanv2004/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Niranjanv2004/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Niranjanv2004/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Niranjanv2004/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -933,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Niranjanv2004/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Niranjanv2004/LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Niranjanv2004/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -963,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Niranjanv2004/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Niranjanv2004/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Niranjanv2004/LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1085,6 +1090,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Niranjanv2004/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Niranjanv2004/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1073-number-of-enclaves) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Niranjanv2004/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Niranjanv2004/LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
