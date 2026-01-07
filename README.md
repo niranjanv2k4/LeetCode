@@ -915,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -941,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Niranjanv2004/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -995,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Queue
 |  |
 | ------- |
