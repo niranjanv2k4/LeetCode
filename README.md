@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Niranjanv2004/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Niranjanv2004/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3775-separate-squares-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Niranjanv2004/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Niranjanv2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Niranjanv2004/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -778,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3775-separate-squares-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3827-implement-router](https://github.com/Niranjanv2004/LeetCode/tree/master/3827-implement-router) |
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/Niranjanv2004/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
@@ -1138,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Niranjanv2004/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [1511-count-number-of-teams](https://github.com/Niranjanv2004/LeetCode/tree/master/1511-count-number-of-teams) |
+| [3775-separate-squares-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Niranjanv2004/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Eulerian Circuit
 |  |
@@ -1178,4 +1181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-design-task-manager](https://github.com/Niranjanv2004/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Niranjanv2004/LeetCode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
+## Line Sweep
+|  |
+| ------- |
+| [3775-separate-squares-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3775-separate-squares-ii) |
 <!---LeetCode Topics End-->
