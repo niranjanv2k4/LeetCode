@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Niranjanv2004/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Niranjanv2004/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
