@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Niranjanv2004/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Niranjanv2004/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3775-separate-squares-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Niranjanv2004/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Niranjanv2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3616-make-array-elements-equal-to-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3721-count-mentions-per-user](https://github.com/Niranjanv2004/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Niranjanv2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -676,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-design-task-manager](https://github.com/Niranjanv2004/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Niranjanv2004/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3797-design-spreadsheet](https://github.com/Niranjanv2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/Niranjanv2004/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/Niranjanv2004/LeetCode/tree/master/3827-implement-router) |
@@ -1082,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Niranjanv2004/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Niranjanv2004/LeetCode/tree/master/3678-design-task-manager) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
@@ -1116,6 +1120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Niranjanv2004/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1191,10 +1196,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Niranjanv2004/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Niranjanv2004/LeetCode/tree/master/3678-design-task-manager) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3827-implement-router](https://github.com/Niranjanv2004/LeetCode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Line Sweep
 |  |
 | ------- |
 | [3775-separate-squares-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3775-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
