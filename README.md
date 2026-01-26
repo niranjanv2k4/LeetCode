@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1284-four-divisors](https://github.com/Niranjanv2004/LeetCode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Niranjanv2004/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/Niranjanv2004/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Niranjanv2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Niranjanv2004/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -903,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Niranjanv2004/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Niranjanv2004/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1306-minimum-absolute-difference](https://github.com/Niranjanv2004/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Niranjanv2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niranjanv2004/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
