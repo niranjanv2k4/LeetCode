@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Niranjanv2004/LeetCode/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Niranjanv2004/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Niranjanv2004/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/Niranjanv2004/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -785,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Niranjanv2004/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Niranjanv2004/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Niranjanv2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
