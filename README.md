@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Niranjanv2004/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Niranjanv2004/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Niranjanv2004/LeetCode/tree/master/3321-type-of-triangle) |
@@ -890,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Niranjanv2004/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -932,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Niranjanv2004/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Niranjanv2004/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Niranjanv2004/LeetCode/tree/master/3321-type-of-triangle) |
