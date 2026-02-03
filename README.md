@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Niranjanv2004/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Niranjanv2004/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
+| [3952-trionic-array-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3952-trionic-array-i) |
 ## Design
 |  |
 | ------- |
