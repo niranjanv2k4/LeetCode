@@ -966,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Niranjanv2004/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Niranjanv2004/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -993,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Niranjanv2004/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Niranjanv2004/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1051,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Niranjanv2004/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Niranjanv2004/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Niranjanv2004/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
