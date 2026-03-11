@@ -859,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Niranjanv2004/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Niranjanv2004/LeetCode/tree/master/0342-power-of-four) |
+| [1054-complement-of-base-10-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Niranjanv2004/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
