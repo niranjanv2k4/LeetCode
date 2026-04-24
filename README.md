@@ -492,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Niranjanv2004/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3019-furthest-point-from-origin](https://github.com/Niranjanv2004/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Niranjanv2004/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -836,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2174-next-greater-numerically-balanced-number](https://github.com/Niranjanv2004/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Niranjanv2004/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3019-furthest-point-from-origin](https://github.com/Niranjanv2004/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Niranjanv2004/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Niranjanv2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Niranjanv2004/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
