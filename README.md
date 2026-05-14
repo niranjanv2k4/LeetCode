@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Niranjanv2004/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Niranjanv2004/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2892-check-if-array-is-good](https://github.com/Niranjanv2004/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/Niranjanv2004/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -692,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Niranjanv2004/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Niranjanv2004/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2892-check-if-array-is-good](https://github.com/Niranjanv2004/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/Niranjanv2004/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Niranjanv2004/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -958,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/Niranjanv2004/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Niranjanv2004/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Niranjanv2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2892-check-if-array-is-good](https://github.com/Niranjanv2004/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Niranjanv2004/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Niranjanv2004/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
