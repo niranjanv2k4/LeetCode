@@ -997,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Niranjanv2004/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Niranjanv2004/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Niranjanv2004/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -1016,6 +1017,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Niranjanv2004/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Niranjanv2004/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Niranjanv2004/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Niranjanv2004/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -1084,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Niranjanv2004/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Niranjanv2004/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Niranjanv2004/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
