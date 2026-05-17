@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Niranjanv2004/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Niranjanv2004/LeetCode/tree/master/0048-rotate-image) |
@@ -809,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0268-missing-number) |
