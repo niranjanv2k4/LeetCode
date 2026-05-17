@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Niranjanv2004/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Niranjanv2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Niranjanv2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Niranjanv2004/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Niranjanv2004/LeetCode/tree/master/0056-merge-intervals) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Niranjanv2004/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Niranjanv2004/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Niranjanv2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Niranjanv2004/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Niranjanv2004/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Niranjanv2004/LeetCode/tree/master/0097-interleaving-string) |
@@ -664,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niranjanv2004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Niranjanv2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Niranjanv2004/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -941,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Niranjanv2004/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Niranjanv2004/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Niranjanv2004/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0088-merge-sorted-array) |
