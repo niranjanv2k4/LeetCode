@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Niranjanv2004/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Niranjanv2004/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Niranjanv2004/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Niranjanv2004/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Niranjanv2004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Niranjanv2004/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -831,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Niranjanv2004/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0268-missing-number) |
