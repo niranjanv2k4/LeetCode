@@ -1,14 +1,27 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        vector<int> dp(nums.size(), 1);
-        for(int i = 0; i<nums.size(); i++){
-            for(int j = 0; j<i; j++){
-                if(nums[i] > nums[j])
-                    dp[i] = max(dp[j] + 1, dp[i]);
-            }
-        }
+        vector<vector<int>> dp(nums.size(), vector<int>(nums.size(), -1));
 
-        return *max_element(dp.begin(), dp.end());
+        return recurse(nums, 0, -1, dp);
+    }
+
+    int recurse(vector<int>& nums, int idx, int prev, vector<vector<int>>& dp){
+        if(idx == nums.size())
+            return 0;
+        
+        if(prev != -1 && dp[idx][prev]  != -1)
+            return dp[idx][prev];
+        
+        int take = 0;
+        if(prev == -1 || nums[idx]  > nums[prev])
+            take = 1 + recurse(nums, idx + 1, idx, dp);
+        
+        int not_take = recurse(nums, idx + 1, prev, dp);
+
+        if(prev != -1)
+            return dp[idx][prev]  = max(take, not_take);
+
+        return max(take, not_take);
     }
 };
