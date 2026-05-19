@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Niranjanv2004/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Niranjanv2004/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Niranjanv2004/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Niranjanv2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Niranjanv2004/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0213-house-robber-ii) |
@@ -750,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Niranjanv2004/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Niranjanv2004/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Niranjanv2004/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Niranjanv2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Niranjanv2004/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/Niranjanv2004/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -1036,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Niranjanv2004/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Niranjanv2004/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Niranjanv2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Niranjanv2004/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niranjanv2004/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1073,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Niranjanv2004/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Niranjanv2004/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Niranjanv2004/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Niranjanv2004/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Niranjanv2004/LeetCode/tree/master/0310-minimum-height-trees) |
@@ -1305,4 +1309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Niranjanv2004/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Niranjanv2004/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
