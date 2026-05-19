@@ -1,17 +1,16 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size(), -1);
-        return maxMoney(nums, dp, 0);
-    }
-    int maxMoney(const vector<int>& nums, vector<int>& dp, int idx) {
-        if (idx >= nums.size()) 
-            return 0;
-        
-        if (dp[idx] != -1)
-            return dp[idx];
-        int two = nums[idx] + maxMoney(nums, dp, idx + 2);
-        int one = maxMoney(nums, dp, idx + 1);
-        return dp[idx] = max(two, one);
+        int take = nums[0];
+        int not_take = 0;
+        int max_val;
+
+        for(int i = 1; i<nums.size(); i++){
+            int max_val = max(take, not_take + nums[i]);
+            not_take = take;
+            take = max_val;
+        }
+
+        return max(take, not_take);
     }
 };
