@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/Niranjanv2004/LeetCode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/Niranjanv2004/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Niranjanv2004/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/Niranjanv2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Niranjanv2004/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Niranjanv2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0551-student-attendance-record-i](https://github.com/Niranjanv2004/LeetCode/tree/master/0551-student-attendance-record-i) |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Niranjanv2004/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Niranjanv2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Niranjanv2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Niranjanv2004/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Niranjanv2004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -959,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Niranjanv2004/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Niranjanv2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Niranjanv2004/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Niranjanv2004/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Niranjanv2004/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Niranjanv2004/LeetCode/tree/master/0435-non-overlapping-intervals) |
