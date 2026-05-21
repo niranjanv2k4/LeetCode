@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Niranjanv2004/LeetCode/tree/master/3321-type-of-triangle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Niranjanv2004/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Niranjanv2004/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Niranjanv2004/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Niranjanv2004/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Niranjanv2004/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Niranjanv2004/LeetCode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Niranjanv2004/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/Niranjanv2004/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Niranjanv2004/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Niranjanv2004/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Niranjanv2004/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Niranjanv2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Niranjanv2004/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1257,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Niranjanv2004/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
