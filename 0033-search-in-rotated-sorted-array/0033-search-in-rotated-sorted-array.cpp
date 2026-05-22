@@ -5,7 +5,6 @@ public:
         int left = 0;
         while (left <= right) {
             int mid = (left + right) / 2;
-            // cout << "(" << left << "," << mid << "," << right << ")";
             if (nums[mid] == target) {
                 return mid;
             } else if (nums[mid] >= nums[left]) {
