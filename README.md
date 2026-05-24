@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1332-count-vowels-permutation](https://github.com/Niranjanv2004/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1466-jump-game-v](https://github.com/niranjanv2k4/LeetCode/tree/master/1466-jump-game-v) |
 | [1511-count-number-of-teams](https://github.com/Niranjanv2004/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Niranjanv2004/LeetCode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Niranjanv2004/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1428-jump-game-iii](https://github.com/Niranjanv2004/LeetCode/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/Niranjanv2004/LeetCode/tree/master/1447-jump-game-iv) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Niranjanv2004/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1466-jump-game-v](https://github.com/niranjanv2k4/LeetCode/tree/master/1466-jump-game-v) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Niranjanv2004/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -987,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-minimum-absolute-difference](https://github.com/Niranjanv2004/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Niranjanv2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Niranjanv2004/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1466-jump-game-v](https://github.com/niranjanv2k4/LeetCode/tree/master/1466-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niranjanv2004/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
