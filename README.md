@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3334-apple-redistribution-into-boxes](https://github.com/Niranjanv2004/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Niranjanv2004/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3376-longest-common-suffix-queries](https://github.com/niranjanv2k4/LeetCode/tree/master/3376-longest-common-suffix-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Niranjanv2004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Niranjanv2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Niranjanv2004/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Niranjanv2004/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3376-longest-common-suffix-queries](https://github.com/niranjanv2k4/LeetCode/tree/master/3376-longest-common-suffix-queries) |
 | [3396-valid-word](https://github.com/Niranjanv2004/LeetCode/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -1273,6 +1275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Niranjanv2004/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Niranjanv2004/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/niranjanv2k4/LeetCode/tree/master/3376-longest-common-suffix-queries) |
 ## Binary Indexed Tree
 |  |
 | ------- |
