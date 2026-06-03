@@ -430,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3952-trionic-array-i) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Design
 |  |
 | ------- |
@@ -640,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Niranjanv2004/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3647-zero-array-transformation-iii](https://github.com/Niranjanv2004/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -669,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Niranjanv2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -892,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3881-minimize-maximum-component-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/Niranjanv2004/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
 | ------- |
@@ -1047,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3908-minimum-time-for-k-connected-components](https://github.com/Niranjanv2004/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Tree
 |  |
 | ------- |
