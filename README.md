@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Niranjanv2004/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Niranjanv2004/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Niranjanv2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Niranjanv2004/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Niranjanv2004/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -989,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Niranjanv2004/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
