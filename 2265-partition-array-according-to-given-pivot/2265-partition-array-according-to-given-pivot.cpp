@@ -1,34 +1,25 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-
-        queue<int> l, g, e;
-
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] < pivot) {
-                l.push(nums[i]);
-            } else if (nums[i] > pivot) {
-                g.push(nums[i]);
-            } else {
-                e.push(nums[i]);
-            }
-        }
-
-        nums.clear();
-
-        while (!l.empty()) {
-            nums.push_back(l.front());
-            l.pop();
-        }
-        while (!e.empty()) {
-            nums.push_back(e.front());
-            e.pop();
-        }
-        while (!g.empty()) {
-            nums.push_back(g.front());
-            g.pop();
-        }
+        vector<int> low, high;
+        int same = 0;
         
-        return nums;
+        for (int el : nums) {
+            if (el < pivot) {
+                low.push_back(el);
+            } else if (el > pivot)
+                high.push_back(el);
+            else
+                same++;
+        }
+
+        vector<int> res(low.begin(), low.end());
+        while (same--)
+            res.push_back(pivot);
+
+        for (int el : high)
+            res.push_back(el);
+
+        return res;
     }
 };
