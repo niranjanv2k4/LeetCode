@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3952-trionic-array-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3952-trionic-array-i) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Design
 |  |
 | ------- |
@@ -649,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1238,6 +1240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/Niranjanv2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Niranjanv2004/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1317,6 +1320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/Niranjanv2004/LeetCode/tree/master/1511-count-number-of-teams) |
 | [3775-separate-squares-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Niranjanv2004/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
