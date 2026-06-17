@@ -565,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Niranjanv2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
+| [3939-process-string-with-special-operations-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/niranjanv2k4/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Niranjanv2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3931-process-string-with-special-operations-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/niranjanv2k4/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Hash Table
 |  |
