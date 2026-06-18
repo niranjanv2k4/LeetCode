@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1395-minimum-time-visiting-all-points](https://github.com/Niranjanv2004/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Niranjanv2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/niranjanv2k4/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/Niranjanv2004/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Niranjanv2004/LeetCode/tree/master/1500-count-largest-group) |
