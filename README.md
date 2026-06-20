@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Niranjanv2004/LeetCode/tree/master/1642-water-bottles) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Niranjanv2004/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1968-maximum-building-height](https://github.com/niranjanv2k4/LeetCode/tree/master/1968-maximum-building-height) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/Niranjanv2004/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Niranjanv2004/LeetCode/tree/master/2050-count-good-numbers) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Niranjanv2004/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Niranjanv2004/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1968-maximum-building-height](https://github.com/niranjanv2k4/LeetCode/tree/master/1968-maximum-building-height) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Niranjanv2004/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Niranjanv2004/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Niranjanv2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1042,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niranjanv2004/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1968-maximum-building-height](https://github.com/niranjanv2k4/LeetCode/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Niranjanv2004/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Niranjanv2004/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/Niranjanv2004/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
