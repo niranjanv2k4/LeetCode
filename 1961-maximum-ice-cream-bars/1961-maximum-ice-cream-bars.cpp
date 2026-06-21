@@ -1,21 +1,16 @@
 class Solution {
 public:
     int maxIceCream(vector<int>& costs, int coins) {
-        map<int, int> mp;
+        map<long long, int> mp;
         for (int el : costs)
             mp[el]++;
 
-        int idx = 0, res = 0;
+        int res = 0;
         for (auto [el, freq] : mp) {
-            while (freq--)
-                costs[idx++] = el;
-        }
-
-        for (int i = 0; i < costs.size(); i++) {
-            coins -= costs[i];
-            if (coins < 0)
-                return res;
-            res++;
+            if (coins - el * freq < 0)
+                return res + coins / el;
+            coins -= el * freq;
+            res += freq;
         }
 
         return res;
