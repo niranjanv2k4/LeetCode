@@ -445,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4216-weighted-word-mapping](https://github.com/niranjanv2k4/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Design
 |  |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Niranjanv2004/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/niranjanv2k4/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -810,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3886-count-number-of-trapezoids-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3934-coupon-code-validator](https://github.com/Niranjanv2004/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1294,6 +1297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Niranjanv2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Niranjanv2004/LeetCode/tree/master/0169-majority-element) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1356,6 +1360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Niranjanv2004/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1422,4 +1427,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/niranjanv2k4/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
