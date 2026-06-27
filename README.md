@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Niranjanv2004/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/niranjanv2k4/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Niranjanv2004/LeetCode/tree/master/3321-type-of-triangle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Niranjanv2004/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -785,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/Niranjanv2004/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Niranjanv2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Niranjanv2004/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/niranjanv2k4/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Niranjanv2004/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Niranjanv2004/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/niranjanv2k4/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -1024,6 +1026,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Niranjanv2004/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/niranjanv2k4/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Niranjanv2004/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Niranjanv2004/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
