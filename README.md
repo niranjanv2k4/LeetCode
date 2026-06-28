@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Niranjanv2004/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Niranjanv2004/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/niranjanv2k4/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/niranjanv2k4/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/niranjanv2k4/LeetCode/tree/master/1968-maximum-building-height) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Niranjanv2004/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Niranjanv2004/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Niranjanv2004/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Niranjanv2004/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/niranjanv2k4/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/niranjanv2k4/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Niranjanv2004/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1061,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Niranjanv2004/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niranjanv2004/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Niranjanv2004/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/niranjanv2k4/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/niranjanv2k4/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/niranjanv2k4/LeetCode/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Niranjanv2004/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
