@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Niranjanv2004/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Niranjanv2004/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Niranjanv2004/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/niranjanv2k4/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Niranjanv2004/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Niranjanv2004/LeetCode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Niranjanv2004/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Niranjanv2004/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2001-jump-game-vii](https://github.com/niranjanv2k4/LeetCode/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Niranjanv2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/niranjanv2k4/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Niranjanv2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Niranjanv2004/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Niranjanv2004/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
